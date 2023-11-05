@@ -1,13 +1,9 @@
-<div class="header" align="center">
+<div id="header" align="center">
   <h1>Hi 👋, I'm Luka</h1>
   </Br>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/luka-kuterovac-340566265/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://gitlab.com/lukakuterovac">
-      <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/luka-kuterovac-340566265"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://gitlab.com/lukakuterovac"><img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/></a>
   </div>
 </div>
 
